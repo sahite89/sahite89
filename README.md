@@ -2,8 +2,7 @@
 
 <h1>Santiago Hijazo</h1>
 
-<p><b>.NET &amp; Angular Developer</b><br/>
-C# · ASP.NET Core · SQL Server · TypeScript · SCSS</p>
+<p><b>.NET &amp; Angular Developer</b><br/></p>
 
 <sub>Lleida, Spain</sub>
 
