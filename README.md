@@ -25,13 +25,19 @@
 </td>
 <td align="center" width="200">
 <h2>Angular</h2>
-<sub>frontend with TypeScript and SCSS</sub>
+<sub>frontend with TypeScript<br/> and SCSS</sub>
 </td>
 </tr>
 </table>
 
 I build full stack web applications end to end: a **C# / .NET** API, a **SQL Server**
 database and an **Angular** client.
+
+**Selected work**
+
+- **[MangaTracker](https://github.com/sahite89/MangaTracker)** — .NET 10 REST API built with Clean Architecture, CQRS, JWT authentication, xUnit tests and Docker.
+- **[Portfolio](https://github.com/sahite89/portfolio)** — Angular 19 application with static site generation, ES/EN i18n and accessibility support.
+
 
 ## Stack
 
@@ -55,3 +61,7 @@ database and an **Angular** client.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+More about my work → [santihijazo.netlify.app](https://santihijazo.netlify.app)
