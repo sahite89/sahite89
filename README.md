@@ -2,14 +2,14 @@
 
 <h1>Santiago Hijazo</h1>
 
-<p><b>.NET &amp; Angular Developer</b><br/></p>
+<p><b>.NET &amp; Angular Developer</b></p>
 
 <sub>Lleida, Spain</sub>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/santiago-hijazo/" Target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://santihijazo.netlify.app/" Target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/santiago-hijazo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://santihijazo.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@
 </td>
 <td align="center" width="200">
 <h2>Angular</h2>
-<sub>frontend with TypeScript,<br/>RxJS and SCSS</sub>
+<sub>frontend with TypeScript and SCSS</sub>
 </td>
 </tr>
 </table>
@@ -55,15 +55,3 @@ database and an **Angular** client.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-## Projects
-
-### MangaTracker
-API to manage users' manga collections. Built with **.NET** and **SQL Server**.
-
-→ [View code](https://github.com/sahite89/MangaTracker)
-
-### Portfolio
-My personal website: introduction, projects and contact. Built with **Angular**.
-
-→ [View code](https://github.com/sahite89/portfolio)
