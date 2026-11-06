@@ -1,68 +1,70 @@
-<h1 align="center">Hola, soy Santiago Hijazo 👋</h1>
+<div align="center">
 
-<h3 align="center">Desarrollador .NET &amp; Angular · Lleida, España</h3>
+<h1>Santiago Hijazo</h1>
 
-<p align="center">
-  Construyo aplicaciones web full stack con <b>C# / .NET</b> en el backend
-  y <b>Angular</b> en el frontend.
-</p>
+<p><b>.NET &amp; Angular Developer</b><br/>
+C# · ASP.NET Core · SQL Server · TypeScript · SCSS</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://TU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<sub>Lleida, Spain</sub>
 
-## 🧰 Stack
+<br/>
 
-**Backend**
+<a href="https://www.linkedin.com/in/santiago-hijazo/" Target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://santihijazo.netlify.app/" Target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+</div>
 
-**Frontend**
+<table align="center">
+<tr>
+<td align="center" width="200">
+<h2>3+ years</h2>
+<sub>building full stack<br/>web applications</sub>
+</td>
+<td align="center" width="200">
+<h2>.NET</h2>
+<sub>backend with C#,<br/>ASP.NET Core and EF Core</sub>
+</td>
+<td align="center" width="200">
+<h2>Angular</h2>
+<sub>frontend with TypeScript,<br/>RxJS and SCSS</sub>
+</td>
+</tr>
+</table>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+I build full stack web applications end to end: a **C# / .NET** API, a **SQL Server**
+database and an **Angular** client.
 
-**Base de datos y herramientas**
+## Stack
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**BACKEND**
 
-## 🚀 Proyectos destacados
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [portfolio](https://github.com/sahite89/portfolio) | Mi portfolio personal | TypeScript |
-| [MangaTracker](https://github.com/sahite89/MangaTracker) | App para seguir mangas | C# / .NET |
-| [angular-bases](https://github.com/sahite89/angular-bases) | Código fuente de mi curso de Angular | Angular / TypeScript |
+**FRONTEND**
 
-## 📊 Estadísticas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahite89&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahite89&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
+**TOOLS**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahite89&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
----
+## Projects
 
-<p align="center"><i>Abierto a colaborar en proyectos .NET / Angular 🚀</i></p>
+### MangaTracker
+API to manage users' manga collections. Built with **.NET** and **SQL Server**.
+
+→ [View code](https://github.com/sahite89/MangaTracker)
+
+### Portfolio
+My personal website: introduction, projects and contact. Built with **Angular**.
+
+→ [View code](https://github.com/sahite89/portfolio)
